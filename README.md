@@ -1,6 +1,5 @@
 # Secure Drop 
-##### A secure version of airdrop
-###### By: Jacob Glik, and Peyton Somerville
+##### A secure version of airdrop IOS for desktop
 
 <br>
 
